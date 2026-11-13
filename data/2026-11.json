@@ -1038,6 +1038,46 @@
    "memo": "휴대폰 회선(갤럭시네비",
    "fixed": true,
    "undated": true
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "생필품, 이동",
+   "col": "H",
+   "row": 37,
+   "undated": true,
+   "memo": "N포인트 적립 +4,117",
+   "dirty": true,
+   "dirtyCells": [
+    "I37"
+   ]
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "생필품, 이동",
+   "col": "H",
+   "row": 38,
+   "undated": true,
+   "memo": "N포인트 사용 -9,511",
+   "dirty": true,
+   "dirtyCells": [
+    "I38"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 15,
+   "amount": 14718,
+   "dirty": true,
+   "dirtyCells": [
+    "S15",
+    "T15"
+   ],
+   "memo": "요기요 소고기쌀국수"
   }
  ],
  "extra": {
