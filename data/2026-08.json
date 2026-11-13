@@ -7,6 +7,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 3,
    "amount": 700000,
    "memo": "청년도약적금",
    "fixed": true
@@ -16,6 +17,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 3,
    "amount": 11500,
    "memo": "사보르"
   },
@@ -24,6 +26,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 3,
    "amount": 6000,
    "memo": "호두과자"
   },
@@ -32,6 +35,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 3,
    "amount": 70000,
    "memo": "주유"
   },
@@ -40,6 +44,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 3,
    "amount": 38301,
    "memo": "에티오피아 (2/2)"
   },
@@ -48,6 +53,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 4,
    "amount": 16000,
    "memo": "오리구이"
   },
@@ -56,6 +62,7 @@
    "side": "me",
    "cat": "여가,식비정산",
    "col": "J",
+   "row": 4,
    "amount": -4000,
    "memo": "카페정산"
   },
@@ -64,6 +71,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 4,
    "amount": 18000,
    "memo": "과천카페"
   },
@@ -72,6 +80,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 4,
    "amount": 23420,
    "memo": "컵라면,카레등"
   },
@@ -80,6 +89,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "W",
+   "row": 4,
    "amount": 28290,
    "memo": "빵햄치즈등"
   },
@@ -88,6 +98,7 @@
    "side": "me",
    "cat": "여가,식비정산",
    "col": "J",
+   "row": 5,
    "amount": 15106,
    "memo": "현질"
   },
@@ -96,6 +107,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 5,
    "amount": 11000
   },
   {
@@ -103,6 +115,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 5,
    "amount": 45700,
    "memo": "고등어"
   },
@@ -111,6 +124,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 6,
    "amount": 13800
   },
   {
@@ -118,6 +132,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 6,
    "amount": 19640,
    "memo": "제로콜라"
   },
@@ -126,6 +141,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 6,
    "amount": 11900,
    "memo": "일리 디스케일링용액"
   },
@@ -134,6 +150,7 @@
    "side": "mom",
    "cat": "이외",
    "col": "AK",
+   "row": 6,
    "amount": 14700,
    "memo": "왼쪽승모한의원"
   },
@@ -142,6 +159,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 7,
    "amount": 12200
   },
   {
@@ -149,6 +167,7 @@
    "side": "mom",
    "cat": "교육",
    "col": "AI",
+   "row": 7,
    "amount": 43333,
    "memo": "문현돈실전(6/6)"
   },
@@ -157,6 +176,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 8,
    "amount": 10730
   },
   {
@@ -164,6 +184,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 8,
    "amount": 5600,
    "memo": "패브릭마카"
   },
@@ -172,6 +193,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 9,
    "amount": 359700,
    "memo": "악뮤콘서트"
   },
@@ -180,6 +202,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 9,
    "amount": 29341,
    "memo": "원스타올드패션드"
   },
@@ -188,6 +211,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 9,
    "amount": 7050,
    "memo": "워터픽"
   },
@@ -196,6 +220,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 10,
    "amount": 11400
   },
   {
@@ -203,6 +228,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 10,
    "amount": 5980,
    "memo": "냉동치킨"
   },
@@ -211,6 +237,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 10,
    "amount": 9790,
    "memo": "종이호일"
   },
@@ -219,6 +246,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 11,
    "amount": 12600,
    "memo": "중식"
   },
@@ -227,6 +255,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 11,
    "amount": 20870,
    "memo": "식자재"
   },
@@ -235,6 +264,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 11,
    "amount": 78748,
    "memo": "일리 에티오피아"
   },
@@ -243,6 +273,7 @@
    "side": "mom",
    "cat": "교육",
    "col": "AI",
+   "row": 11,
    "amount": 5900,
    "memo": "앤딩스터디"
   },
@@ -251,6 +282,7 @@
    "side": "mom",
    "cat": "이외",
    "col": "AK",
+   "row": 11,
    "amount": 7500,
    "memo": "철분제"
   },
@@ -259,6 +291,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 12,
    "amount": 3000,
    "memo": "강데이즈발렛"
   },
@@ -267,6 +300,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 12,
    "amount": 13900,
    "memo": "유튜브 유독",
    "fixed": true
@@ -276,6 +310,7 @@
    "side": "me",
    "cat": "이외",
    "col": "N",
+   "row": 12,
    "amount": 0,
    "memo": "학자금대출-특별상환대출로 3년유예",
    "fixed": true
@@ -285,6 +320,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 12,
    "amount": 11700,
    "memo": "로젯런던"
   },
@@ -293,6 +329,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 12,
    "amount": 15310,
    "memo": "오리,치즈"
   },
@@ -301,6 +338,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "W",
+   "row": 12,
    "amount": 7980,
    "memo": "라면등"
   },
@@ -309,6 +347,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 12,
    "amount": 10430,
    "memo": "면도젤"
   },
@@ -317,6 +356,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 12,
    "amount": 43000,
    "memo": "주유"
   },
@@ -325,6 +365,7 @@
    "side": "mom",
    "cat": "이외",
    "col": "AK",
+   "row": 12,
    "amount": 54100,
    "memo": "강데이즈헤어"
   },
@@ -333,6 +374,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "F",
+   "row": 13,
    "amount": 5200,
    "memo": "주민세"
   },
@@ -341,6 +383,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 13,
    "amount": -2400,
    "memo": "유독쿠폰판매"
   },
@@ -349,6 +392,7 @@
    "side": "mom",
    "cat": "교육",
    "col": "AI",
+   "row": 13,
    "amount": 91667,
    "memo": "김현완티패스(2/6)"
   },
@@ -357,6 +401,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 14,
    "amount": 11900,
    "memo": "푸줏간"
   },
@@ -365,6 +410,7 @@
    "side": "me",
    "cat": "이외",
    "col": "N",
+   "row": 15,
    "amount": 14600,
    "memo": "톨비체크(7월)",
    "fixed": true
@@ -374,6 +420,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 15,
    "amount": 16400,
    "memo": "밥버거"
   },
@@ -382,6 +429,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 15,
    "amount": 12160,
    "memo": "지마켓김치-8.19도착"
   },
@@ -390,6 +438,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 15,
    "amount": 28970,
    "memo": "하이드로콜로이드등"
   },
@@ -398,6 +447,7 @@
    "side": "mom",
    "cat": "여가/차량",
    "col": "AC",
+   "row": 15,
    "amount": 62900,
    "memo": "조약돌키보드"
   },
@@ -406,6 +456,7 @@
    "side": "me",
    "cat": "여가,식비정산",
    "col": "J",
+   "row": 16,
    "amount": 42500,
    "memo": "아이패드프로13(16/50)"
   },
@@ -414,6 +465,7 @@
    "side": "me",
    "cat": "이외",
    "col": "N",
+   "row": 16,
    "amount": 22100,
    "memo": "톨비신용(7월)",
    "fixed": true
@@ -423,6 +475,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 16,
    "amount": 10000,
    "memo": "교동짬뽕"
   },
@@ -431,6 +484,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 16,
    "amount": 15200,
    "memo": "버거리"
   },
@@ -439,6 +493,7 @@
    "side": "mom",
    "cat": "여가/차량",
    "col": "AC",
+   "row": 16,
    "amount": 53800,
    "memo": "짐박스",
    "fixed": true
@@ -448,6 +503,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 16,
    "amount": 2000,
    "memo": "메가커피"
   },
@@ -456,6 +512,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AG",
+   "row": 16,
    "amount": 5000,
    "memo": "메가커피"
   },
@@ -464,6 +521,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 17,
    "amount": 4900,
    "memo": "운전자보험(디비)",
    "fixed": true
@@ -473,6 +531,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 17,
    "amount": 38000,
    "memo": "콩두주백"
   },
@@ -481,6 +540,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 17,
    "amount": 30357,
    "memo": "선풍기(2/3)-보험포함"
   },
@@ -489,6 +549,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 18,
    "amount": 8000,
    "memo": "호두과자"
   },
@@ -497,6 +558,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 18,
    "amount": 79900,
    "memo": "옷"
   },
@@ -505,6 +567,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 18,
    "amount": 2000,
    "memo": "수민주차권"
   },
@@ -513,6 +576,7 @@
    "side": "mom",
    "cat": "여가/차량",
    "col": "AC",
+   "row": 18,
    "amount": 2200,
    "memo": "수민주차"
   },
@@ -521,6 +585,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 19,
    "amount": 26000,
    "memo": "스스"
   },
@@ -529,6 +594,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 19,
    "amount": 4900,
    "memo": "프로틴음료"
   },
@@ -537,6 +603,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 19,
    "amount": 90000,
    "memo": "주유"
   },
@@ -545,6 +612,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 20,
    "amount": 17000,
    "memo": "봉평막국수"
   },
@@ -553,6 +621,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 20,
    "amount": 10990,
    "memo": "락스"
   },
@@ -561,6 +630,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 20,
    "amount": 3000,
    "memo": "메가커피"
   },
@@ -569,6 +639,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 21,
    "amount": 11399,
    "memo": "도시락"
   },
@@ -577,6 +648,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 21,
    "amount": 16800,
    "memo": "접이식키보드"
   },
@@ -585,6 +657,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "F",
+   "row": 22,
    "amount": 6300,
    "memo": "도곡동 주차"
   },
@@ -593,6 +666,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 22,
    "amount": 7890,
    "memo": "로켓와우",
    "fixed": true
@@ -602,6 +676,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 22,
    "amount": 18800,
    "memo": "녹다카페"
   },
@@ -610,6 +685,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 23,
    "amount": 20000,
    "memo": "금욜 오디세이 영화표"
   },
@@ -618,6 +694,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "F",
+   "row": 23,
    "amount": 78000,
    "memo": "음이태리"
   },
@@ -626,6 +703,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 23,
    "amount": 990,
    "memo": "톡서랍",
    "fixed": true
@@ -635,6 +713,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 23,
    "amount": 11900,
    "memo": "남산왕돈까스"
   },
@@ -643,6 +722,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 23,
    "amount": 11400,
    "memo": "롯시팝콘"
   },
@@ -651,6 +731,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 23,
    "amount": 7200,
    "memo": "도곡동주차"
   },
@@ -659,6 +740,7 @@
    "side": "mom",
    "cat": "이외",
    "col": "AK",
+   "row": 23,
    "amount": 36300,
    "memo": "인터넷티비",
    "fixed": true
@@ -668,6 +750,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 24,
    "amount": null,
    "amountNote": "무료권 27.04까지",
    "memo": "배민클럽",
@@ -678,6 +761,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 24,
    "amount": 8500,
    "memo": "킴키집아이스크림"
   },
@@ -686,6 +770,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 24,
    "amount": 18500,
    "memo": "킴키집우산"
   },
@@ -694,6 +779,7 @@
    "side": "mom",
    "cat": "교육",
    "col": "AI",
+   "row": 24,
    "amount": 72000,
    "memo": "민소사례(3/6)"
   },
@@ -702,6 +788,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 25,
    "amount": 11600,
    "memo": "킴키집에서택시"
   },
@@ -710,6 +797,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 25,
    "amount": 33000,
    "memo": "클로드프로",
    "fixed": true
@@ -719,6 +807,7 @@
    "side": "mom",
    "cat": "여가/차량",
    "col": "AC",
+   "row": 25,
    "amount": 11800,
    "memo": "식품페스티벌"
   },
@@ -727,6 +816,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 25,
    "amount": 1800,
    "memo": "커피"
   },
@@ -735,6 +825,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 26,
    "amount": 21000,
    "memo": "인뽑"
   },
@@ -743,6 +834,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 26,
    "amount": 13104,
    "memo": "KB실손보험",
    "fixed": true
@@ -752,6 +844,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 26,
    "amount": 10470,
    "memo": "하은샌듸치"
   },
@@ -760,6 +853,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 26,
    "amount": 20670,
    "memo": "트리오드"
   },
@@ -768,6 +862,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 26,
    "amount": 6000,
    "memo": "강남주차"
   },
@@ -776,6 +871,7 @@
    "side": "mom",
    "cat": "이외",
    "col": "AK",
+   "row": 26,
    "amount": 58650,
    "memo": "이사청소잔금(3/3)"
   },
@@ -784,6 +880,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 27,
    "amount": 780000,
    "memo": "923호 월세-선불",
    "fixed": true
@@ -793,6 +890,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 27,
    "amount": 10600
   },
   {
@@ -800,6 +898,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 27,
    "amount": 16100,
    "memo": "소안심등"
   },
@@ -808,6 +907,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "W",
+   "row": 27,
    "amount": 6090,
    "memo": "식자재마트"
   },
@@ -816,6 +916,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 27,
    "amount": 6690,
    "memo": "바디워시"
   },
@@ -824,6 +925,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 27,
    "amount": 2800,
    "memo": "컴포즈"
   },
@@ -832,6 +934,7 @@
    "side": "me",
    "cat": "여가,식비정산",
    "col": "J",
+   "row": 28,
    "amount": 142143,
    "memo": "맥북에어(3/14)"
   },
@@ -840,6 +943,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 28,
    "amount": 197570,
    "memo": "7월 관리비",
    "fixed": true
@@ -849,6 +953,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 28,
    "amount": 21000,
    "memo": "교촌"
   },
@@ -857,6 +962,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 28,
    "amount": 7550,
    "memo": "빵"
   },
@@ -865,6 +971,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 28,
    "amount": 2200,
    "memo": "유심"
   },
@@ -873,6 +980,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 29,
    "amount": 1250,
    "memo": "휴대폰 회선(결합용,아이즈모바일SKT)",
    "fixed": true
@@ -882,6 +990,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 29,
    "amount": 12000
   },
   {
@@ -889,6 +998,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "D",
+   "row": 30,
    "amount": 57100,
    "memo": "홍대데이트"
   },
@@ -897,6 +1007,7 @@
    "side": "me",
    "cat": "데이트",
    "col": "F",
+   "row": 30,
    "amount": 13400,
    "memo": "홍대데이트"
   },
@@ -905,6 +1016,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 30,
    "amount": 13500
   },
   {
@@ -912,6 +1024,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 30,
    "amount": 48800,
    "memo": "로쏘1924"
   },
@@ -920,6 +1033,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 30,
    "amount": 15000,
    "memo": "우산"
   },
@@ -928,6 +1042,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 30,
    "amount": 70000,
    "memo": "주유"
   },
@@ -936,6 +1051,7 @@
    "side": "mom",
    "cat": "커피,티",
    "col": "AE",
+   "row": 30,
    "amount": 4000,
    "memo": "메가컾"
   },
@@ -944,6 +1060,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 31,
    "amount": 110,
    "memo": "휴대폰 회선(토스모바일LG,알닷으로가입 16GB",
    "fixed": true
@@ -953,6 +1070,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 31,
    "amount": 12000,
    "memo": "쌀국수"
   },
@@ -961,6 +1079,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 31,
    "amount": 60000,
    "memo": "주유"
   },
@@ -969,6 +1088,7 @@
    "side": "mom",
    "cat": "여가/차량",
    "col": "AC",
+   "row": 31,
    "amount": 7040,
    "memo": "비상벨"
   },
@@ -977,6 +1097,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 32,
    "amount": 11000,
    "memo": "휴대폰 회선(본폰,티플러스lg)",
    "fixed": true
@@ -986,6 +1107,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 32,
    "amount": 12000,
    "memo": "김치찜"
   },
@@ -994,6 +1116,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 32,
    "amount": 36580,
    "memo": "샌드위치재료"
   },
@@ -1002,6 +1125,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 32,
    "amount": 35400,
    "memo": "아식스신발(1/3)"
   },
@@ -1010,6 +1134,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 33,
    "amount": 110,
    "memo": "휴대폰 회선 더원모바일kt -데이터용",
    "fixed": true
@@ -1019,6 +1144,7 @@
    "side": "mom",
    "cat": "점심",
    "col": "Q",
+   "row": 33,
    "amount": 40800,
    "memo": "커리"
   },
@@ -1027,6 +1153,7 @@
    "side": "mom",
    "cat": "저녁",
    "col": "S",
+   "row": 33,
    "amount": 11900
   },
   {
@@ -1034,6 +1161,7 @@
    "side": "mom",
    "cat": "간식",
    "col": "U",
+   "row": 33,
    "amount": 7590,
    "memo": "마라탕"
   },
@@ -1042,6 +1170,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 33,
    "amount": 9110,
    "memo": "물티슈"
   },
@@ -1050,6 +1179,7 @@
    "side": "mom",
    "cat": "차량",
    "col": "AA",
+   "row": 33,
    "amount": 50000,
    "memo": "주유"
   },
@@ -1058,6 +1188,7 @@
    "side": "mom",
    "cat": "교육",
    "col": "AI",
+   "row": 33,
    "amount": 79583,
    "memo": "김선민티패스(6/6)"
   },
@@ -1066,6 +1197,7 @@
    "side": "me",
    "cat": "먼슬리페이",
    "col": "L",
+   "row": 34,
    "amount": 20,
    "memo": "휴대폰 회선(모나LG),휴대폰 회선4(모나LG) 알닷으로 가입함",
    "fixed": true,
@@ -1076,6 +1208,7 @@
    "side": "mom",
    "cat": "생필품",
    "col": "Y",
+   "row": 34,
    "amount": 12820,
    "memo": "샴푸",
    "undated": true
