@@ -87,7 +87,7 @@ def convert(ws, wv, name):
             for col, r0, r1, ov in SIDE_OVERRIDE.get(name, []):
                 if cell.column_letter == col and r0 <= r <= r1:
                     s = ov
-            e = {"date": day, "side": s, "cat": cat, "col": cell.column_letter}
+            e = {"date": day, "side": s, "cat": cat, "col": cell.column_letter, "row": r}
             if isinstance(v, (int, float)):
                 e["amount"] = int(round(v))
             elif isinstance(v, str) and v.strip() == "?":
@@ -140,6 +140,28 @@ def income(ws, wv, end):
     return items
 
 
+def apply_overlay(data, pend, sheet_name):
+    """엑셀에 아직 못 쓴 기록(pending_writes.json)을 화면용 데이터에 덮어쓴다."""
+    for it in pend:
+        if it.get("sheet") != sheet_name:
+            continue
+        cells = it.get("cells", {})
+        for coord, val in cells.items():
+            col = re.match(r"[A-Z]+", coord).group(0)
+            row = int(coord[len(col):])
+            if isinstance(val, str):
+                continue  # 사유 칸은 금액 칸과 함께 처리
+            memo_col = openpyxl.utils.get_column_letter(openpyxl.utils.column_index_from_string(col) + 1)
+            memo = cells.get(f"{memo_col}{row}")
+            hit = [e for e in data["entries"] if e["col"] == col and e.get("row") == row]
+            for e in hit:
+                e["amount"] = int(val)
+                e.pop("pending", None)
+                if memo:
+                    e["memo"] = memo
+                e["unsynced"] = True  # 엑셀에는 아직 안 들어감
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("xlsx")
@@ -147,7 +169,10 @@ def main():
     ap.add_argument("--only")
     ap.add_argument("--since", help="이 달(YY-MM) 이후 시트만 변환, 예: 26-08")
     ap.add_argument("--with-income", action="store_true")
+    ap.add_argument("--overlay", default=os.path.expanduser("~/.config/ledger/pending_writes.json"),
+                    help="엑셀에 아직 못 쓴 기록 파일 (있으면 화면 데이터에 반영)")
     a = ap.parse_args()
+    pend = json.load(open(a.overlay, encoding="utf-8")) if a.overlay and os.path.exists(a.overlay) else []
     wb = openpyxl.load_workbook(a.xlsx)
     wbv = openpyxl.load_workbook(a.xlsx, data_only=True)
     names = [n for n in wb.sheetnames if SHEET.match(n)]
@@ -161,6 +186,7 @@ def main():
         data, warn, end = convert(wb[n], wbv[n], n)
         if a.with_income:
             data["income"] = income(wb[n], wbv[n], end)
+        apply_overlay(data, pend, n)
         allwarn += warn
         if not data["entries"]:
             allwarn.append(f"{n}: 내역 없음, 건너뜀")
