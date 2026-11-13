@@ -1,5 +1,8 @@
 """가계부 xlsx → data/YYYY-MM.json 변환 (월 시트 'YY-MM'만).
 
+※ 2026-11-13부터 data/*.json이 원본이다. 이 변환은 처음 옮길 때·복구할 때만 수동으로 쓴다
+  (돌리면 JSON이 엑셀 내용으로 덮어써진다). 평소 기록은 tools/book.py.
+
 사용: python tools/import_xlsx.py <ledger.xlsx> [--out data] [--only 26-11,26-10] [--with-income]
 
 - 1행 제목으로 칸을 읽는다: 바로 오른쪽 칸 제목이 '사유'면 금액 칸.
@@ -114,7 +117,16 @@ def convert(ws, wv, name):
             if day is None:
                 e["undated"] = True
             entries.append(e)
-    out = {"month": f"{year}-{month:02d}", "sheet": name, "entries": entries}
+    out = {"month": f"{year}-{month:02d}", "sheet": name,
+           "layout": [[ws.cell(1, c).column_letter, side, cat] for c, side, cat in cols],
+           "entries": entries}
+    extra = {}
+    for ref in ("I37", "I38"):  # 네이버 포인트 월 누적 메모
+        v = wv[ref].value
+        if v not in (None, ""):
+            extra[ref] = str(v)
+    if extra:
+        out["extra"] = extra
     # 검증용 시트 합계
     me_total = find_label_value(wv, "내 지출합", end)
     mom_total = find_label_value(wv, "엄마카드지출", end)
@@ -140,28 +152,6 @@ def income(ws, wv, end):
     return items
 
 
-def apply_overlay(data, pend, sheet_name):
-    """엑셀에 아직 못 쓴 기록(pending_writes.json)을 화면용 데이터에 덮어쓴다."""
-    for it in pend:
-        if it.get("sheet") != sheet_name:
-            continue
-        cells = it.get("cells", {})
-        for coord, val in cells.items():
-            col = re.match(r"[A-Z]+", coord).group(0)
-            row = int(coord[len(col):])
-            if isinstance(val, str):
-                continue  # 사유 칸은 금액 칸과 함께 처리
-            memo_col = openpyxl.utils.get_column_letter(openpyxl.utils.column_index_from_string(col) + 1)
-            memo = cells.get(f"{memo_col}{row}")
-            hit = [e for e in data["entries"] if e["col"] == col and e.get("row") == row]
-            for e in hit:
-                e["amount"] = int(val)
-                e.pop("pending", None)
-                if memo:
-                    e["memo"] = memo
-                e["unsynced"] = True  # 엑셀에는 아직 안 들어감
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("xlsx")
@@ -169,10 +159,7 @@ def main():
     ap.add_argument("--only")
     ap.add_argument("--since", help="이 달(YY-MM) 이후 시트만 변환, 예: 26-08")
     ap.add_argument("--with-income", action="store_true")
-    ap.add_argument("--overlay", default=os.path.expanduser("~/.config/ledger/pending_writes.json"),
-                    help="엑셀에 아직 못 쓴 기록 파일 (있으면 화면 데이터에 반영)")
     a = ap.parse_args()
-    pend = json.load(open(a.overlay, encoding="utf-8")) if a.overlay and os.path.exists(a.overlay) else []
     wb = openpyxl.load_workbook(a.xlsx)
     wbv = openpyxl.load_workbook(a.xlsx, data_only=True)
     names = [n for n in wb.sheetnames if SHEET.match(n)]
@@ -186,7 +173,6 @@ def main():
         data, warn, end = convert(wb[n], wbv[n], n)
         if a.with_income:
             data["income"] = income(wb[n], wbv[n], end)
-        apply_overlay(data, pend, n)
         allwarn += warn
         if not data["entries"]:
             allwarn.append(f"{n}: 내역 없음, 건너뜀")

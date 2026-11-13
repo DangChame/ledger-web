@@ -122,9 +122,7 @@
     const amt = typeof e.amount === "number" ? won(e.amount) : e.pending ? "?" : "";
     const chips = [
       e.fixed ? `<span class="chip fixed">고정</span>` : "",
-      e.pending ? `<span class="chip warn">금액 미정</span>` : "",
-      e.unsynced ? `<span class="chip">엑셀 반영 전</span>` : "",
-      e.amountNote ? `<span class="chip">${esc(e.amountNote)}</span>` : "",
+      e.pending ? `<span class="chip warn">금액 미정</span>` : "",      e.amountNote ? `<span class="chip">${esc(e.amountNote)}</span>` : "",
     ].join("");
     const moved = e.realDate && e.date && e.realDate !== e.date ? " · 칸 위치 " + e.date.slice(5).replace("-", ".") : "";
     return `<li class="row"><span class="dot ${e.side}"></span>
