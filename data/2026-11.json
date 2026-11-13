@@ -1,0 +1,854 @@
+{
+ "month": "2026-11",
+ "sheet": "26-11",
+ "entries": [
+  {
+   "date": "2026-11-01",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 700000,
+   "memo": "청년도약적금",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 12700,
+   "memo": "쿠팡이츠 감자튀김+닭다리순살"
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 3170,
+   "memo": "단백질칩"
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 12460,
+   "memo": "단백질바"
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 6000,
+   "memo": "다이소"
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 46900,
+   "memo": "짐박스"
+  },
+  {
+   "date": "2026-11-01",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 4000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 83366,
+   "memo": "7일 부산 숙소"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 4531,
+   "memo": "후참잘"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 3870,
+   "memo": "햇반"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 973,
+   "memo": "크레페"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 6600,
+   "memo": "유심"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 1000,
+   "memo": "주차"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 5000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-11-02",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 50000,
+   "memo": "김영남취약"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 3500
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 18200
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 23900,
+   "memo": "치폴레"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 50010,
+   "memo": "식재료"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 12200,
+   "memo": "베개(11.5)",
+   "realDate": "2026-11-05"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 3570,
+   "memo": "a to c 케이블"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 1000,
+   "memo": "일회용숟가락"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 11400,
+   "memo": "스벅"
+  },
+  {
+   "date": "2026-11-03",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AG",
+   "amount": 9500,
+   "memo": "부천커피"
+  },
+  {
+   "date": "2026-11-04",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 12170,
+   "memo": "중앙식자재마트(11.9)",
+   "realDate": "2026-11-09"
+  },
+  {
+   "date": "2026-11-04",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 10800,
+   "memo": "빵"
+  },
+  {
+   "date": "2026-11-04",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 16200,
+   "memo": "핫팩(11.5)",
+   "realDate": "2026-11-05"
+  },
+  {
+   "date": "2026-11-04",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 19500,
+   "memo": "고터주차장"
+  },
+  {
+   "date": "2026-11-04",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 5990,
+   "memo": "시계"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 2068,
+   "memo": "부산 맥도날드(11.7)",
+   "realDate": "2026-11-07"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 8251,
+   "memo": "돈까스"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 12700,
+   "memo": "버거킹"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 13587,
+   "memo": "반미"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 5600,
+   "memo": "코레일유통(부산)(11.8)",
+   "realDate": "2026-11-08"
+  },
+  {
+   "date": "2026-11-05",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 24500,
+   "memo": "혈압계"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 2400,
+   "memo": "KTX자판기(11.7)",
+   "realDate": "2026-11-07"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 5000,
+   "memo": "사진(11.8)",
+   "realDate": "2026-11-08"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 28690,
+   "memo": "Xsolla(SpaceArmada)"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12780,
+   "memo": "쿠팡이츠 마장동고기세트"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 72000,
+   "memo": "을지백호"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 8250,
+   "memo": "프레퍼스"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 6900,
+   "memo": "삼진어묵(11.8)",
+   "realDate": "2026-11-08"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 17670,
+   "memo": "스팟패치"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 9800,
+   "memo": "주차권"
+  },
+  {
+   "date": "2026-11-06",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 16000,
+   "memo": "스벅"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 13700,
+   "memo": "카카오택시"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 16000,
+   "memo": "송정 야식"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 3700,
+   "memo": "맥도날드"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 2200,
+   "memo": "코레일유통(광명)"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 11000,
+   "memo": "코레일유통(부산)"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 4750,
+   "memo": "C타입케이블"
+  },
+  {
+   "date": "2026-11-07",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 15000,
+   "memo": "주차권"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 17400,
+   "memo": "오락실"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 26000,
+   "memo": "에떼오브제"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 47800,
+   "memo": "용가회전훠궈"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 8600,
+   "memo": "원어거스트(소금빵)"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 3400,
+   "memo": "CU편의점"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 13410,
+   "memo": "라운드랩 독도토너(11.10)",
+   "realDate": "2026-11-10"
+  },
+  {
+   "date": "2026-11-08",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 2000,
+   "memo": "메가커피"
+  },
+  {
+   "date": "2026-11-09",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 20844,
+   "memo": "Xsolla(SpaceArmada)"
+  },
+  {
+   "date": "2026-11-09",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 14900,
+   "memo": "유튜브 유독",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-09",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 19160,
+   "memo": "쿠팡식료품"
+  },
+  {
+   "date": "2026-11-09",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 19500,
+   "memo": "디디도넛"
+  },
+  {
+   "date": "2026-11-09",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 9900,
+   "memo": "얼룩제거제"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": -65000,
+   "memo": "청주여행 정산금(친구1명)"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": 0,
+   "memo": "학자금대출-특별상환대출로 3년유예",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 27700,
+   "memo": "쿠팡이츠 갈릭후라이드치킨파스타"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 14600,
+   "memo": "쿠팡이츠 퀴니아망·샌드위치(11.11)",
+   "realDate": "2026-11-11"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 47430,
+   "memo": "쿠팡 두부조림양념 등 반찬재료(11.11)",
+   "realDate": "2026-11-11"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 12890,
+   "memo": "김치자르미"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 80000,
+   "memo": "주유(씨더블유창원사당)"
+  },
+  {
+   "date": "2026-11-10",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 5500,
+   "memo": "메가커피"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 8900,
+   "memo": "꾸까 메리골드(여친선물)"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 11642,
+   "memo": "요기요 골든버터식빵"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 2790,
+   "memo": "쿠팡 육개장라면"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 19750,
+   "memo": "홈플래닛 무드등 가습기"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 91667,
+   "memo": "김현완티패스(5/6)"
+  },
+  {
+   "date": "2026-11-12",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 13790,
+   "memo": "CU편의점"
+  },
+  {
+   "date": "2026-11-12",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 18710,
+   "memo": "무아스 육각 타이머(공부용)"
+  },
+  {
+   "date": "2026-11-13",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비체크(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-13",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 42750,
+   "memo": "일월 워셔블 카본 온열 전기매트"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 42500,
+   "memo": "아이패드프로13(19/50)"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비신용(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 102000,
+   "memo": "mf휘트니스1년(3/3)"
+  },
+  {
+   "date": "2026-11-15",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 4900,
+   "memo": "운전자보험(디비)",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-20",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 7890,
+   "memo": "로켓와우",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-21",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 990,
+   "memo": "톡서랍",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-21",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 36300,
+   "memo": "인터넷티비",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-22",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "amountNote": "무료권 27.04까지",
+   "memo": "배민클럽",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-22",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 72000,
+   "memo": "민소사례(6/6)"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "pending": true,
+   "memo": "클로드프로",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-24",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 13104,
+   "memo": "KB실손보험",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-25",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 780000,
+   "memo": "923호 월세-선불",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-26",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 142143,
+   "memo": "맥북에어(6/14)"
+  },
+  {
+   "date": "2026-11-26",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "pending": true,
+   "memo": "10월관리비",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-27",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 1250,
+   "memo": "휴대폰 회선(결합용,아이즈모바일SKT)",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-28",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 18500,
+   "memo": "휴대폰 회선(lg헬로비젼, 네이버페이페이백)아이폰13미니",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-29",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 110,
+   "memo": "휴대폰 회선(아이패드",
+   "fixed": true
+  },
+  {
+   "date": "2026-11-30",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 11400,
+   "memo": "휴대폰 회선(본폰,lg유모바일,페이백받음)",
+   "fixed": true
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 19800,
+   "memo": "휴대폰 회선 본폰데이터용",
+   "fixed": true,
+   "undated": true
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 15900,
+   "memo": "휴대폰 회선(갤럭시네비",
+   "fixed": true,
+   "undated": true
+  }
+ ],
+ "sheetTotals": {
+  "me": 1936255,
+  "mom": 1319621
+ }
+}

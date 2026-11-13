@@ -1,0 +1,1342 @@
+{
+ "month": "2026-10",
+ "sheet": "26-10",
+ "entries": [
+  {
+   "date": "2026-10-01",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 700000,
+   "memo": "청년도약적금",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-01",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 11080
+  },
+  {
+   "date": "2026-10-01",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 11835
+  },
+  {
+   "date": "2026-10-01",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 10900
+  },
+  {
+   "date": "2026-10-01",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 20900,
+   "memo": "지현 생일선물"
+  },
+  {
+   "date": "2026-10-02",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 15600
+  },
+  {
+   "date": "2026-10-03",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 4900,
+   "memo": "주차"
+  },
+  {
+   "date": "2026-10-03",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 10962
+  },
+  {
+   "date": "2026-10-03",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 25670,
+   "memo": "신발"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 5000,
+   "memo": "포토이즘"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 70000,
+   "memo": "드리스티"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 24500,
+   "memo": "한강"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 38600,
+   "memo": "해방촌버거"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 18000
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 3000
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 16000,
+   "memo": "해방촌주차"
+  },
+  {
+   "date": "2026-10-04",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 5500,
+   "memo": "마우스패드"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 14800,
+   "memo": "구동의아침"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 20200,
+   "memo": "명랑핫도그"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 18570
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 28810,
+   "memo": "리프팅화"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 5500,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-10-05",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 10500,
+   "memo": "알러지약"
+  },
+  {
+   "date": "2026-10-06",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 30100,
+   "memo": "원차우"
+  },
+  {
+   "date": "2026-10-06",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 23600,
+   "memo": "소금집"
+  },
+  {
+   "date": "2026-10-06",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 6000,
+   "memo": "고터주차"
+  },
+  {
+   "date": "2026-10-06",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 25918,
+   "memo": "그립톡"
+  },
+  {
+   "date": "2026-10-07",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 14982
+  },
+  {
+   "date": "2026-10-07",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12004,
+   "memo": "춘리"
+  },
+  {
+   "date": "2026-10-07",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 12852,
+   "memo": "앵그리포테이토"
+  },
+  {
+   "date": "2026-10-07",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 8800,
+   "memo": "공주샌드위치"
+  },
+  {
+   "date": "2026-10-07",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 53920,
+   "memo": "페리틴검사"
+  },
+  {
+   "date": "2026-10-08",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 69800,
+   "memo": "공주데이트"
+  },
+  {
+   "date": "2026-10-08",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 30000,
+   "memo": "꽃"
+  },
+  {
+   "date": "2026-10-08",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 200000,
+   "memo": "진욱 축의금"
+  },
+  {
+   "date": "2026-10-08",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 32000,
+   "memo": "곰골식당"
+  },
+  {
+   "date": "2026-10-08",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 100000,
+   "memo": "주유"
+  },
+  {
+   "date": "2026-10-09",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 320000,
+   "memo": "청주숙소"
+  },
+  {
+   "date": "2026-10-09",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 23300,
+   "memo": "프린세스피크닉"
+  },
+  {
+   "date": "2026-10-09",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 50300,
+   "memo": "청주 요아정"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 15000,
+   "memo": "떡볶이"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 38290,
+   "memo": "올영"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": -318330,
+   "memo": "숙소정산-지용이꺼 남음"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 14900,
+   "memo": "유튜브 유독",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-10",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": 0,
+   "memo": "학자금대출-특별상환대출로 3년유예",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-10",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12000,
+   "memo": "우유빙수"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 35857,
+   "memo": "인도요리인디아"
+  },
+  {
+   "date": "2026-10-10",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 15640
+  },
+  {
+   "date": "2026-10-10",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 12000
+  },
+  {
+   "date": "2026-10-10",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 61700,
+   "memo": "옷등"
+  },
+  {
+   "date": "2026-10-11",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 1000,
+   "memo": "물"
+  },
+  {
+   "date": "2026-10-11",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 31800,
+   "memo": "메가약국"
+  },
+  {
+   "date": "2026-10-11",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 17960,
+   "memo": "카팩"
+  },
+  {
+   "date": "2026-10-11",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 2000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-10-11",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 91667,
+   "memo": "김현완티패스(4/6)"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 70000,
+   "memo": "렌즈"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 30550,
+   "memo": "원차우"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 13900,
+   "memo": "굿베이커리"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 4190,
+   "memo": "우유"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 3720,
+   "memo": "세탁망"
+  },
+  {
+   "date": "2026-10-12",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 15600,
+   "memo": "악뮤공연주차"
+  },
+  {
+   "date": "2026-10-13",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 1000,
+   "memo": "안터 주차"
+  },
+  {
+   "date": "2026-10-13",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비체크(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-13",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 11030,
+   "memo": "파스타"
+  },
+  {
+   "date": "2026-10-13",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 3000,
+   "memo": "동전지갑"
+  },
+  {
+   "date": "2026-10-13",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 80000,
+   "memo": "주유"
+  },
+  {
+   "date": "2026-10-13",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 4000,
+   "memo": "내과결과"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 42500,
+   "memo": "아이패드프로13(18/50)"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비신용(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 10900,
+   "memo": "공주돈까스"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 11011,
+   "memo": "스낵팩멜번"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 19300,
+   "memo": "셋어스펠"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 75950,
+   "memo": "브라운면도기"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 8900,
+   "memo": "시가잭멀티"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 102000,
+   "memo": "mf휘트니스1년(2/3)"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 162000,
+   "memo": "42주차"
+  },
+  {
+   "date": "2026-10-14",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 52600,
+   "memo": "미용실"
+  },
+  {
+   "date": "2026-10-15",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 4900,
+   "memo": "운전자보험(디비)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-15",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12500,
+   "memo": "오늘은카츠"
+  },
+  {
+   "date": "2026-10-15",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 13800,
+   "memo": "치킨파스타러브"
+  },
+  {
+   "date": "2026-10-15",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 25760,
+   "memo": "제로콜라"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 1500,
+   "memo": "고터주차"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 103600,
+   "memo": "부산.ktx"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 9800,
+   "memo": "후투타코"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 18900,
+   "memo": "혜화어묵당"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 17000,
+   "memo": "넬리슨"
+  },
+  {
+   "date": "2026-10-16",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 9000,
+   "memo": "주차"
+  },
+  {
+   "date": "2026-10-17",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 92200,
+   "memo": "부산ktx"
+  },
+  {
+   "date": "2026-10-17",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 3900,
+   "memo": "이모티콘플러스",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-17",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 25900,
+   "memo": "시골가마솥김치찜"
+  },
+  {
+   "date": "2026-10-17",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 22000,
+   "memo": "바스버거"
+  },
+  {
+   "date": "2026-10-17",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 7800,
+   "memo": "프로틴"
+  },
+  {
+   "date": "2026-10-18",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 8696,
+   "memo": "일본 스이카테스트"
+  },
+  {
+   "date": "2026-10-18",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 25800,
+   "memo": "춘리"
+  },
+  {
+   "date": "2026-10-18",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 25700,
+   "memo": "창부리또"
+  },
+  {
+   "date": "2026-10-18",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 11400,
+   "memo": "요거트월드"
+  },
+  {
+   "date": "2026-10-18",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 27360,
+   "memo": "주차"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 43000,
+   "memo": "코스트코연회비"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "me",
+   "cat": "데이트",
+   "col": "F",
+   "amount": 108220,
+   "memo": "코스트코식재료"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 40000,
+   "memo": "무드무드"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 14410,
+   "memo": "과자맥주"
+  },
+  {
+   "date": "2026-10-19",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 2720,
+   "memo": "아이스크림"
+  },
+  {
+   "date": "2026-10-20",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 1000,
+   "memo": "안터주차"
+  },
+  {
+   "date": "2026-10-20",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 7890,
+   "memo": "로켓와우",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-20",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 8900
+  },
+  {
+   "date": "2026-10-20",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 11700,
+   "memo": "일본이심"
+  },
+  {
+   "date": "2026-10-21",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 990,
+   "memo": "톡서랍",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 13500
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 21900
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 10040,
+   "memo": "도넛"
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 73900,
+   "memo": "유니클로옷"
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 80000,
+   "memo": "주유"
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 70500,
+   "memo": "도쿄스카이라이너"
+  },
+  {
+   "date": "2026-10-21",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 36300,
+   "memo": "인터넷티비",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-22",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "amountNote": "무료권 27.04까지",
+   "memo": "배민클럽",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-22",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 7126,
+   "memo": "공주"
+  },
+  {
+   "date": "2026-10-22",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 18450,
+   "memo": "백팩"
+  },
+  {
+   "date": "2026-10-22",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 3000,
+   "memo": "고터주차"
+  },
+  {
+   "date": "2026-10-22",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 4000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-10-22",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 72000,
+   "memo": "민소사례(5/6)"
+  },
+  {
+   "date": "2026-10-23",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 33000,
+   "memo": "클로드프로",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-23",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12973
+  },
+  {
+   "date": "2026-10-23",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 26502
+  },
+  {
+   "date": "2026-10-23",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 34420,
+   "memo": "크록스"
+  },
+  {
+   "date": "2026-10-24",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 13104,
+   "memo": "KB실손보험",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-24",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 8850,
+   "memo": "지퍼백"
+  },
+  {
+   "date": "2026-10-24",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 4000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-10-25",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 8633,
+   "memo": "스이카충전"
+  },
+  {
+   "date": "2026-10-25",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 780000,
+   "memo": "923호 월세-선불",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-25",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 3200,
+   "memo": "돼지코"
+  },
+  {
+   "date": "2026-10-26",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 8633,
+   "memo": "스이카충전"
+  },
+  {
+   "date": "2026-10-26",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 142143,
+   "memo": "맥북에어(5/14)"
+  },
+  {
+   "date": "2026-10-26",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 182610,
+   "memo": "9월관리비",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-26",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 14120,
+   "memo": "백팩레인커버+손코팅필름"
+  },
+  {
+   "date": "2026-10-27",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 1010238,
+   "memo": "일본여행쓴돈(416013은 유니클로쇼핑)"
+  },
+  {
+   "date": "2026-10-27",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 1250,
+   "memo": "휴대폰 회선(결합용,아이즈모바일SKT)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-27",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 29500,
+   "memo": "교촌"
+  },
+  {
+   "date": "2026-10-27",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 13700,
+   "memo": "요거트월드"
+  },
+  {
+   "date": "2026-10-27",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 4900,
+   "memo": "전기테이프"
+  },
+  {
+   "date": "2026-10-28",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "amount": 3000,
+   "memo": "고터주차"
+  },
+  {
+   "date": "2026-10-28",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 18500,
+   "memo": "휴대폰 회선(lg헬로비젼, 네이버페이페이백)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-28",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 18510
+  },
+  {
+   "date": "2026-10-28",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 11019
+  },
+  {
+   "date": "2026-10-28",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 16860,
+   "memo": "이치란라멘"
+  },
+  {
+   "date": "2026-10-28",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 80000,
+   "memo": "주유"
+  },
+  {
+   "date": "2026-10-28",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 100000,
+   "memo": "김영남상호비교"
+  },
+  {
+   "date": "2026-10-29",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 110,
+   "memo": "휴대폰 회선(토스모바일LG,알닷으로가입 16GB",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 12349
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 12700,
+   "memo": "공주편의점"
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "amount": 37740,
+   "memo": "식재료"
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 10500,
+   "memo": "물티슈"
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 8250,
+   "memo": "쿠션"
+  },
+  {
+   "date": "2026-10-29",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "amount": 7200,
+   "memo": "옷"
+  },
+  {
+   "date": "2026-10-30",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 11000,
+   "memo": "휴대폰 회선(본폰,티플러스lg)",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-30",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 9760
+  },
+  {
+   "date": "2026-10-30",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "amount": 35400,
+   "memo": "아식스신발(3/3)"
+  },
+  {
+   "date": "2026-10-30",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 78040,
+   "memo": "일리"
+  },
+  {
+   "date": "2026-10-31",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 110,
+   "memo": "휴대폰 회선 더원모바일kt -데이터용",
+   "fixed": true
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "amount": 24614
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "amount": 26469
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "amount": 13150,
+   "memo": "패트매트"
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "amount": 80000,
+   "memo": "주유"
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "amount": 2000,
+   "memo": "메가"
+  },
+  {
+   "date": "2026-10-31",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 1500,
+   "memo": "버스"
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 10,
+   "memo": "휴대폰 회선(모나LG)",
+   "fixed": true,
+   "undated": true
+  },
+  {
+   "date": null,
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 3600,
+   "memo": "지하철",
+   "undated": true
+  }
+ ],
+ "sheetTotals": {
+  "me": 3866279,
+  "mom": 3062988
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "month": "2026-12",
+ "sheet": "26-12",
+ "entries": [
+  {
+   "date": "2026-12-01",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 700000,
+   "memo": "청년도약적금",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-09",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 14900,
+   "memo": "유튜브 유독",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-10",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": 0,
+   "memo": "학자금대출-특별상환대출로 3년유예",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-11",
+   "side": "mom",
+   "cat": "교육",
+   "col": "AI",
+   "amount": 91667,
+   "memo": "김현완티패스(6/6)"
+  },
+  {
+   "date": "2026-12-13",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비체크(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-14",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 42500,
+   "memo": "아이패드프로13(20/50)"
+  },
+  {
+   "date": "2026-12-14",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "amount": null,
+   "pending": true,
+   "memo": "톨비신용(8월)",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-15",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 4900,
+   "memo": "운전자보험(디비)",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-20",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 7890,
+   "memo": "로켓와우",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-21",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 990,
+   "memo": "톡서랍",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-21",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "amount": 36300,
+   "memo": "인터넷티비",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-22",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "amountNote": "무료권 27.04까지",
+   "memo": "배민클럽",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-23",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "pending": true,
+   "memo": "클로드프로",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-24",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 13104,
+   "memo": "KB실손보험",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-25",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 780000,
+   "memo": "923호 월세-선불",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-26",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "amount": 142143,
+   "memo": "맥북에어(7/14)"
+  },
+  {
+   "date": "2026-12-26",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": null,
+   "pending": true,
+   "memo": "11월관리비",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-27",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 1250,
+   "memo": "휴대폰 회선(결합용,아이즈모바일SKT)",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-28",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 18500,
+   "memo": "휴대폰 회선(lg헬로비젼, 네이버페이페이백)아이폰13미니",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-29",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 110,
+   "memo": "휴대폰 회선(아이패드",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-30",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 11400,
+   "memo": "휴대폰 회선(본폰,lg유모바일,페이백받음)",
+   "fixed": true
+  },
+  {
+   "date": "2026-12-31",
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 19800,
+   "memo": "휴대폰 회선 본폰데이터용",
+   "fixed": true
+  },
+  {
+   "date": null,
+   "side": "me",
+   "cat": "먼슬리페이",
+   "col": "L",
+   "amount": 15900,
+   "memo": "휴대폰 회선(갤럭시네비",
+   "fixed": true,
+   "undated": true
+  }
+ ],
+ "sheetTotals": {
+  "me": 1773387,
+  "mom": 127967
+ }
+}
