@@ -1046,7 +1046,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +4,117",
+   "memo": "N포인트 적립 +4,156",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1078,6 +1078,48 @@
     "T15"
    ],
    "memo": "요기요 소고기쌀국수"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "row": 16,
+   "amount": 4970,
+   "dirty": true,
+   "dirtyCells": [
+    "U16",
+    "V16"
+   ],
+   "memo": "중앙식자재마트"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "row": 16,
+   "amount": 10728,
+   "dirty": true,
+   "dirtyCells": [
+    "W16",
+    "X16"
+   ],
+   "memo": "치킨마요 덮밥(위대한상상)"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 16,
+   "amount": 15600,
+   "dirty": true,
+   "dirtyCells": [
+    "Y16",
+    "Z16"
+   ],
+   "memo": "리스테린 가글 1L 2개(켄뷰, 네이버쇼핑)"
   }
  ],
  "extra": {
