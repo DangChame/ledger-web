@@ -652,8 +652,7 @@
    "row": 15,
    "memo": "톨비체크(9월)",
    "fixed": true,
-   "amount": 6900,
-   "dirty": true
+   "amount": 6900
   },
   {
    "date": "2026-10-13",
@@ -708,8 +707,7 @@
    "row": 16,
    "memo": "톨비신용(9월)",
    "fixed": true,
-   "amount": 36050,
-   "dirty": true
+   "amount": 36050
   },
   {
    "date": "2026-10-14",

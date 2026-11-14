@@ -825,8 +825,7 @@
    "row": 15,
    "memo": "톨비체크(10월)",
    "fixed": true,
-   "amount": 0,
-   "dirty": true
+   "amount": 0
   },
   {
    "date": "2026-11-13",
@@ -854,8 +853,7 @@
    "row": 16,
    "memo": "톨비신용(10월)",
    "fixed": true,
-   "amount": 64700,
-   "dirty": true
+   "amount": 64700
   },
   {
    "date": "2026-11-14",
@@ -1046,11 +1044,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +4,156",
-   "dirty": true,
-   "dirtyCells": [
-    "I37"
-   ]
+   "memo": "N포인트 적립 +4,156"
   },
   {
    "date": null,
@@ -1059,11 +1053,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -9,511",
-   "dirty": true,
-   "dirtyCells": [
-    "I38"
-   ]
+   "memo": "N포인트 사용 -9,511"
   },
   {
    "date": "2026-11-13",
@@ -1072,11 +1062,6 @@
    "col": "S",
    "row": 15,
    "amount": 14718,
-   "dirty": true,
-   "dirtyCells": [
-    "S15",
-    "T15"
-   ],
    "memo": "요기요 소고기쌀국수"
   },
   {
@@ -1086,11 +1071,6 @@
    "col": "U",
    "row": 16,
    "amount": 4970,
-   "dirty": true,
-   "dirtyCells": [
-    "U16",
-    "V16"
-   ],
    "memo": "중앙식자재마트"
   },
   {
@@ -1100,11 +1080,6 @@
    "col": "W",
    "row": 16,
    "amount": 10728,
-   "dirty": true,
-   "dirtyCells": [
-    "W16",
-    "X16"
-   ],
    "memo": "치킨마요 덮밥(위대한상상)"
   },
   {
@@ -1114,11 +1089,6 @@
    "col": "Y",
    "row": 16,
    "amount": 15600,
-   "dirty": true,
-   "dirtyCells": [
-    "Y16",
-    "Z16"
-   ],
    "memo": "리스테린 가글 1L 2개(켄뷰, 네이버쇼핑)"
   }
  ],
