@@ -767,15 +767,6 @@
    "date": "2026-11-11",
    "side": "mom",
    "cat": "간식",
-   "col": "U",
-   "row": 13,
-   "amount": 11642,
-   "memo": "요기요 골든버터식빵"
-  },
-  {
-   "date": "2026-11-11",
-   "side": "mom",
-   "cat": "간식",
    "col": "W",
    "row": 13,
    "amount": 2790,
@@ -1076,20 +1067,53 @@
   {
    "date": "2026-11-14",
    "side": "mom",
-   "cat": "간식",
-   "col": "W",
-   "row": 16,
-   "amount": 10728,
-   "memo": "치킨마요 덮밥(위대한상상)"
-  },
-  {
-   "date": "2026-11-14",
-   "side": "mom",
    "cat": "생필품",
    "col": "Y",
    "row": 16,
    "amount": 15600,
    "memo": "리스테린 가글 1L 2개(켄뷰, 네이버쇼핑)"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 16,
+   "amount": 10728,
+   "dirty": true,
+   "dirtyCells": [
+    "S16",
+    "T16"
+   ],
+   "memo": "요기요 치킨마요 덮밥"
+  },
+  {
+   "date": "2026-11-11",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 13,
+   "amount": 11642,
+   "dirty": true,
+   "dirtyCells": [
+    "Q13",
+    "R13"
+   ],
+   "memo": "요기요 골든버터식빵"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "me",
+   "cat": "데이트",
+   "col": "D",
+   "row": 16,
+   "amount": 1000,
+   "dirty": true,
+   "dirtyCells": [
+    "D16",
+    "E16"
+   ],
+   "memo": "안산터미널 주차비"
   }
  ],
  "extra": {
@@ -1099,5 +1123,15 @@
  "sheetTotals": {
   "me": 1936255,
   "mom": 1319621
- }
+ },
+ "cleared": [
+  [
+   "W",
+   16
+  ],
+  [
+   "U",
+   13
+  ]
+ ]
 }
