@@ -1035,7 +1035,11 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +4,156"
+   "memo": "N포인트 적립 +1,324,360",
+   "dirty": true,
+   "dirtyCells": [
+    "I37"
+   ]
   },
   {
    "date": null,
@@ -1044,7 +1048,11 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -9,511"
+   "memo": "N포인트 사용 -90,220",
+   "dirty": true,
+   "dirtyCells": [
+    "I38"
+   ]
   },
   {
    "date": "2026-11-13",
@@ -1114,6 +1122,63 @@
     "E16"
    ],
    "memo": "안산터미널 주차비"
+  },
+  {
+   "date": "2026-11-15",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 17,
+   "amount": 8100,
+   "dirty": true,
+   "dirtyCells": [
+    "S17",
+    "T17"
+   ],
+   "memo": "프랭크버거"
+  },
+  {
+   "date": "2026-11-12",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 14,
+   "amount": 19128,
+   "dirty": true,
+   "dirtyCells": [
+    "S14",
+    "T14"
+   ],
+   "memo": "요기요 순살양념(11.15)",
+   "realDate": "2026-11-15"
+  },
+  {
+   "date": "2026-11-15",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "row": 17,
+   "amount": 13000,
+   "dirty": true,
+   "dirtyCells": [
+    "U17",
+    "V17"
+   ],
+   "memo": "요기요 카라멜 팝콘"
+  },
+  {
+   "date": "2026-11-15",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "row": 17,
+   "amount": 8000,
+   "dirty": true,
+   "dirtyCells": [
+    "AA17",
+    "AB17"
+   ],
+   "memo": "주차권"
   }
  ],
  "extra": {
