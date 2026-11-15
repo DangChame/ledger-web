@@ -1035,7 +1035,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +1,324,360",
+   "memo": "N포인트 적립 +67,478",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1048,7 +1048,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -90,220",
+   "memo": "N포인트 사용 -9,511",
    "dirty": true,
    "dirtyCells": [
     "I38"
