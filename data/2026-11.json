@@ -1179,6 +1179,133 @@
     "AB17"
    ],
    "memo": "주차권"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 18,
+   "amount": 14000,
+   "dirty": true,
+   "dirtyCells": [
+    "Q18",
+    "R18"
+   ],
+   "memo": "또순이네"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "row": 18,
+   "amount": 12400,
+   "dirty": true,
+   "dirtyCells": [
+    "U18",
+    "V18"
+   ],
+   "memo": "빵백화점"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "간식",
+   "col": "W",
+   "row": 18,
+   "amount": 42580,
+   "dirty": true,
+   "dirtyCells": [
+    "W18",
+    "X18"
+   ],
+   "memo": "트레이더스"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 18,
+   "amount": 18610,
+   "dirty": true,
+   "dirtyCells": [
+    "Y18",
+    "Z18"
+   ],
+   "memo": "무인양품"
+  },
+  {
+   "date": "2026-11-15",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 17,
+   "amount": 10500,
+   "dirty": true,
+   "dirtyCells": [
+    "Y17",
+    "Z17"
+   ],
+   "memo": "종로늘푸른약국(11.16)",
+   "realDate": "2026-11-16"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "row": 18,
+   "amount": 2000,
+   "dirty": true,
+   "dirtyCells": [
+    "AA18",
+    "AB18"
+   ],
+   "memo": "하이파킹"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "여가",
+   "col": "AC",
+   "row": 18,
+   "amount": 16000,
+   "dirty": true,
+   "dirtyCells": [
+    "AC18",
+    "AD18"
+   ],
+   "memo": "교보문고"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "row": 18,
+   "amount": 4900,
+   "dirty": true,
+   "dirtyCells": [
+    "AE18",
+    "AF18"
+   ],
+   "memo": "공차"
+  },
+  {
+   "date": "2026-11-16",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AG",
+   "row": 18,
+   "amount": 69660,
+   "dirty": true,
+   "dirtyCells": [
+    "AG18",
+    "AH18"
+   ],
+   "memo": "일리 에티오피아 캡슐커피 100개입(쿠팡)"
   }
  ],
  "extra": {
