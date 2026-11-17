@@ -36,7 +36,9 @@
     try { data = await load(`data/${m}.json`); }
     catch (err) { $("#days").innerHTML = `<p class="empty">불러오지 못했어요 (${esc(err.message)})</p>`; return; }
 
-    const all = data.entries;
+    const isPt = (e) => e.undated && /N포인트/.test(e.memo || "");  // I37/I38 포인트 누적 메모
+    const pts = data.entries.filter(isPt).map((e) => e.memo);
+    const all = data.entries.filter((e) => !isPt(e));
     all.forEach((e) => { if (e.cat === "점심" || e.cat === "저녁") e.cat = "식사"; });  // 화면에서만 합쳐 보이기 (원본 칸은 그대로)
     const num = (e) => (typeof e.amount === "number" ? e.amount : 0);
     const sum = (arr) => arr.reduce((a, e) => a + num(e), 0);
@@ -52,7 +54,9 @@
       <div class="stat me"><div class="k">내 돈</div><div class="v">${won(tMe)}</div></div>
       <div class="stat mom"><div class="k">엄마카드</div><div class="v">${won(tMom)}</div></div>
       <div class="stat"><div class="k">고정지출</div><div class="v">${won(tFixed)}</div><div class="s">회색 칸 합계</div></div>
-      <div class="stat"><div class="k">변동지출</div><div class="v">${won(tAll - tFixed)}</div></div>`;
+      <div class="stat"><div class="k">변동지출</div><div class="v">${won(tAll - tFixed)}</div></div>` +
+      (pts.length ? `<div class="stat big"><div class="k">네이버페이 포인트 (이번 달 누적)</div>${pts.map((t) =>
+        `<div class="s">${esc(t.replace("N포인트 ", ""))}</div>`).join("")}</div>` : "");
 
     // 쪽 선택
     const sideList = st.side === "all" ? all : all.filter((e) => e.side === st.side);
