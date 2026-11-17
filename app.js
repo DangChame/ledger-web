@@ -37,6 +37,7 @@
     catch (err) { $("#days").innerHTML = `<p class="empty">불러오지 못했어요 (${esc(err.message)})</p>`; return; }
 
     const all = data.entries;
+    all.forEach((e) => { if (e.cat === "점심" || e.cat === "저녁") e.cat = "식사"; });  // 화면에서만 합쳐 보이기 (원본 칸은 그대로)
     const num = (e) => (typeof e.amount === "number" ? e.amount : 0);
     const sum = (arr) => arr.reduce((a, e) => a + num(e), 0);
     const me = all.filter((e) => e.side === "me"), mom = all.filter((e) => e.side === "mom");
