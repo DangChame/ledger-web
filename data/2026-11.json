@@ -1418,6 +1418,35 @@
     "AL20"
    ],
    "memo": "강데이즈 헤어(현아 실장)"
+  },
+  {
+   "date": "2026-11-17",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "row": 19,
+   "amount": 21160,
+   "dirty": true,
+   "dirtyCells": [
+    "AA19",
+    "AB19"
+   ],
+   "memo": "42주차(동호이엔지)"
+  },
+  {
+   "date": "2026-11-14",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "row": 16,
+   "amount": 3000,
+   "dirty": true,
+   "dirtyCells": [
+    "AA16",
+    "AB16"
+   ],
+   "memo": "고터주차장 (11.17)",
+   "realDate": "2026-11-17"
   }
  ],
  "extra": {
