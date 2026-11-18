@@ -1001,7 +1001,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -9,511",
+   "memo": "N포인트 사용 -9,709",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1334,6 +1334,90 @@
     "T18"
    ],
    "memo": "트레이더스 (16:49 14,600 + 17:51 27,980)"
+  },
+  {
+   "date": "2026-11-17",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 19,
+   "amount": 19294,
+   "dirty": true,
+   "dirtyCells": [
+    "S19",
+    "T19"
+   ],
+   "memo": "요기요 더블 제육 잡채밥"
+  },
+  {
+   "date": "2026-11-17",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 19,
+   "amount": 7120,
+   "dirty": true,
+   "dirtyCells": [
+    "Y19",
+    "Z19"
+   ],
+   "memo": "쿠팡 키캡 키링"
+  },
+  {
+   "date": "2026-11-17",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "row": 19,
+   "amount": 3500,
+   "dirty": true,
+   "dirtyCells": [
+    "AE19",
+    "AF19"
+   ],
+   "memo": "메가MGC커피"
+  },
+  {
+   "date": "2026-11-17",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "row": 19,
+   "amount": 28400,
+   "dirty": true,
+   "dirtyCells": [
+    "AK19",
+    "AL19"
+   ],
+   "memo": "쿠팡 남자 린넨 팬츠"
+  },
+  {
+   "date": "2026-11-18",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 20,
+   "amount": 13700,
+   "dirty": true,
+   "dirtyCells": [
+    "Q20",
+    "R20"
+   ],
+   "memo": "로젯런던베이글"
+  },
+  {
+   "date": "2026-11-18",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "row": 20,
+   "amount": 54100,
+   "dirty": true,
+   "dirtyCells": [
+    "AK20",
+    "AL20"
+   ],
+   "memo": "강데이즈 헤어(현아 실장)"
   }
  ],
  "extra": {
