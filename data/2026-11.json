@@ -1001,7 +1001,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -9,709",
+   "memo": "N포인트 사용 -73,070",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1447,6 +1447,34 @@
    ],
    "memo": "고터주차장 (11.17)",
    "realDate": "2026-11-17"
+  },
+  {
+   "date": "2026-11-18",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 20,
+   "amount": 6100,
+   "dirty": true,
+   "dirtyCells": [
+    "Y20",
+    "Z20"
+   ],
+   "memo": "쿠팡 참조은 노즈트루 코세정용 분말"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 21,
+   "amount": 33580,
+   "dirty": true,
+   "dirtyCells": [
+    "Y21",
+    "Z21"
+   ],
+   "memo": "쿠팡 시스슈 노트북 백팩"
   }
  ],
  "extra": {
