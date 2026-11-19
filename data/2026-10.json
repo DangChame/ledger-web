@@ -336,7 +336,12 @@
    "cat": "여가,식비정산",
    "col": "J",
    "row": 9,
-   "amount": 14982
+   "amount": 14982,
+   "memo": "Xsolla(SpaceArmada)",
+   "dirty": true,
+   "dirtyCells": [
+    "K9"
+   ]
   },
   {
    "date": "2026-10-07",
@@ -1589,6 +1594,34 @@
    "amount": 3600,
    "memo": "지하철",
    "undated": true
+  },
+  {
+   "date": "2026-10-23",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "row": 25,
+   "amount": 5018,
+   "dirty": true,
+   "dirtyCells": [
+    "J25",
+    "K25"
+   ],
+   "memo": "Xsolla(SpaceArmada)"
+  },
+  {
+   "date": "2026-10-31",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "row": 33,
+   "amount": 10416,
+   "dirty": true,
+   "dirtyCells": [
+    "J33",
+    "K33"
+   ],
+   "memo": "Xsolla(SpaceArmada)"
   }
  ],
  "sheetTotals": {
