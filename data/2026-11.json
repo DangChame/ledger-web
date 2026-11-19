@@ -988,7 +988,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +67,478",
+   "memo": "N포인트 적립 +68,560",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1001,7 +1001,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -73,070",
+   "memo": "N포인트 사용 -74,152",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1489,6 +1489,135 @@
     "E20"
    ],
    "memo": "롯데월드 종일권 2인 (포인트 63,361 + 카드)"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 21,
+   "amount": 8535,
+   "dirty": true,
+   "dirtyCells": [
+    "Q21",
+    "R21"
+   ],
+   "memo": "요기요 충청도식 짜글이+밥+반찬"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 21,
+   "amount": 16417,
+   "dirty": true,
+   "dirtyCells": [
+    "S21",
+    "T21"
+   ],
+   "memo": "요기요 뉴욕그맛 페퍼로니"
+  },
+  {
+   "date": "2026-11-18",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 20,
+   "amount": 8300,
+   "dirty": true,
+   "dirtyCells": [
+    "S20",
+    "T20"
+   ],
+   "memo": "요기요 소고기쌀국수(11.19)",
+   "realDate": "2026-11-19"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "mom",
+   "cat": "간식",
+   "col": "U",
+   "row": 21,
+   "amount": 19740,
+   "dirty": true,
+   "dirtyCells": [
+    "U21",
+    "V21"
+   ],
+   "memo": "쿠팡 전자렌지용 팝콘"
+  },
+  {
+   "date": "2026-11-12",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 14,
+   "amount": 5700,
+   "dirty": true,
+   "dirtyCells": [
+    "Y14",
+    "Z14"
+   ],
+   "memo": "팜프라자약국(11.19)",
+   "realDate": "2026-11-19"
+  },
+  {
+   "date": "2026-11-09",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 11,
+   "amount": 23990,
+   "dirty": true,
+   "dirtyCells": [
+    "Y11",
+    "Z11"
+   ],
+   "memo": "쿠팡 화장품 정리함(11.19)",
+   "realDate": "2026-11-19"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "row": 21,
+   "amount": 8200,
+   "dirty": true,
+   "dirtyCells": [
+    "AK21",
+    "AL21"
+   ],
+   "memo": "문이비인후과"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "me",
+   "cat": "생필품, 이동",
+   "col": "H",
+   "row": 21,
+   "amount": 37747,
+   "dirty": true,
+   "dirtyCells": [
+    "H21",
+    "I21"
+   ],
+   "memo": "AliExpress"
+  },
+  {
+   "date": "2026-11-19",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "row": 21,
+   "amount": 28858,
+   "dirty": true,
+   "dirtyCells": [
+    "J21",
+    "K21"
+   ],
+   "memo": "Xsolla(SpaceArmada)"
   }
  ],
  "extra": {
