@@ -307,7 +307,12 @@
    "cat": "여가,식비정산",
    "col": "J",
    "row": 8,
-   "amount": 21608
+   "amount": 21608,
+   "memo": "현질",
+   "dirty": true,
+   "dirtyCells": [
+    "K8"
+   ]
   },
   {
    "date": "2026-09-06",
@@ -975,7 +980,12 @@
    "cat": "여가,식비정산",
    "col": "J",
    "row": 20,
-   "amount": 30000
+   "amount": 30000,
+   "memo": "현질",
+   "dirty": true,
+   "dirtyCells": [
+    "K20"
+   ]
   },
   {
    "date": "2026-09-18",
@@ -1089,7 +1099,12 @@
    "cat": "여가,식비정산",
    "col": "J",
    "row": 23,
-   "amount": 14500
+   "amount": 14500,
+   "memo": "현질",
+   "dirty": true,
+   "dirtyCells": [
+    "K23"
+   ]
   },
   {
    "date": "2026-09-21",
@@ -1475,7 +1490,12 @@
    "cat": "여가,식비정산",
    "col": "J",
    "row": 30,
-   "amount": 14500
+   "amount": 14500,
+   "memo": "현질",
+   "dirty": true,
+   "dirtyCells": [
+    "K30"
+   ]
   },
   {
    "date": "2026-09-28",
