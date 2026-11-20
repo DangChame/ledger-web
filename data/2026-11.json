@@ -988,7 +988,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +68,560",
+   "memo": "N포인트 적립 +108,560",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1001,7 +1001,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -74,152",
+   "memo": "N포인트 사용 -87,405",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1618,6 +1618,34 @@
     "K21"
    ],
    "memo": "Xsolla(SpaceArmada)"
+  },
+  {
+   "date": "2026-11-20",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "row": 22,
+   "amount": 1793,
+   "dirty": true,
+   "dirtyCells": [
+    "J22",
+    "K22"
+   ],
+   "memo": "Xsolla(SpaceArmada)"
+  },
+  {
+   "date": "2026-11-20",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 22,
+   "amount": 9628,
+   "dirty": true,
+   "dirtyCells": [
+    "S22",
+    "T22"
+   ],
+   "memo": "요기요 봉구킹"
   }
  ],
  "extra": {
