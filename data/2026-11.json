@@ -988,7 +988,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +108,560",
+   "memo": "N포인트 적립 +111,438",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1001,7 +1001,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -87,405",
+   "memo": "N포인트 사용 -86,973",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1646,6 +1646,34 @@
    ],
    "memo": "쿠팡 깔창",
    "amount": 9800
+  },
+  {
+   "date": "2026-11-22",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 24,
+   "amount": 6700,
+   "dirty": true,
+   "dirtyCells": [
+    "Y24",
+    "Z24"
+   ],
+   "memo": "쿠팡 분리수거 비닐봉투"
+  },
+  {
+   "date": "2026-11-22",
+   "side": "mom",
+   "cat": "이외",
+   "col": "AK",
+   "row": 24,
+   "amount": 2200,
+   "dirty": true,
+   "dirtyCells": [
+    "AK24",
+    "AL24"
+   ],
+   "memo": "쿠팡 알뜰폰 유심"
   }
  ],
  "extra": {
