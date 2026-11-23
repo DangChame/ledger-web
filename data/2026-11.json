@@ -977,7 +977,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +151,438",
+   "memo": "N포인트 적립 +162,441",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -990,7 +990,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -117,777",
+   "memo": "N포인트 사용 -147,877",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1719,6 +1719,64 @@
     "M25"
    ],
    "memo": "클로드프로"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 25,
+   "amount": 13800,
+   "dirty": true,
+   "dirtyCells": [
+    "S25",
+    "T25"
+   ],
+   "memo": "맥도날드"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "mom",
+   "cat": "차량",
+   "col": "AA",
+   "row": 25,
+   "amount": 14200,
+   "dirty": true,
+   "dirtyCells": [
+    "AA25",
+    "AB25"
+   ],
+   "memo": "아이파킹 주차비"
+  },
+  {
+   "date": "2026-11-20",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 22,
+   "amount": 25000,
+   "dirty": true,
+   "dirtyCells": [
+    "Y22",
+    "Z22"
+   ],
+   "memo": "편한M약국(11.23)",
+   "realDate": "2026-11-23"
+  },
+  {
+   "date": "2026-11-18",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 20,
+   "amount": 8200,
+   "dirty": true,
+   "dirtyCells": [
+    "Y20",
+    "Z20"
+   ],
+   "memo": "쿠팡 이노시톨(11.23)",
+   "realDate": "2026-11-23"
   }
  ],
  "extra": {
