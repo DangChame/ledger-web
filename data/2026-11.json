@@ -869,17 +869,6 @@
    "memo": "민소사례(6/6)"
   },
   {
-   "date": "2026-11-23",
-   "side": "me",
-   "cat": "먼슬리페이",
-   "col": "L",
-   "row": 25,
-   "amount": null,
-   "pending": true,
-   "memo": "클로드프로",
-   "fixed": true
-  },
-  {
    "date": "2026-11-24",
    "side": "me",
    "cat": "먼슬리페이",
@@ -988,7 +977,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +111,438",
+   "memo": "N포인트 적립 +151,438",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1001,7 +990,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -86,973",
+   "memo": "N포인트 사용 -117,777",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1674,6 +1663,62 @@
     "AL24"
    ],
    "memo": "쿠팡 알뜰폰 유심"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "row": 25,
+   "amount": 30804,
+   "dirty": true,
+   "dirtyCells": [
+    "N25",
+    "O25"
+   ],
+   "memo": "클로드프로"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 25,
+   "amount": 17519,
+   "dirty": true,
+   "dirtyCells": [
+    "Q25",
+    "R25"
+   ],
+   "memo": "요기요 캘리포니아부리또"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "mom",
+   "cat": "생필품",
+   "col": "Y",
+   "row": 25,
+   "amount": 9800,
+   "dirty": true,
+   "dirtyCells": [
+    "Y25",
+    "Z25"
+   ],
+   "memo": "쿠팡 깔창"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "row": 25,
+   "amount": 11600,
+   "dirty": true,
+   "dirtyCells": [
+    "AE25",
+    "AF25"
+   ],
+   "memo": "요기요 아메리카노"
   }
  ],
  "extra": {
@@ -1724,6 +1769,10 @@
   [
    "Y",
    20
+  ],
+  [
+   "L",
+   25
   ]
  ]
 }

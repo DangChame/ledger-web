@@ -216,17 +216,6 @@
    "fixed": true
   },
   {
-   "date": "2026-12-23",
-   "side": "me",
-   "cat": "먼슬리페이",
-   "col": "L",
-   "row": 25,
-   "amount": null,
-   "pending": true,
-   "memo": "클로드프로",
-   "fixed": true
-  },
-  {
    "date": "2026-12-24",
    "side": "me",
    "cat": "먼슬리페이",
@@ -335,5 +324,11 @@
  "sheetTotals": {
   "me": 1773387,
   "mom": 127967
- }
+ },
+ "cleared": [
+  [
+   "L",
+   25
+  ]
+ ]
 }
