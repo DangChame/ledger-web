@@ -977,7 +977,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +162,441",
+   "memo": "N포인트 적립 +169,795",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -990,7 +990,7 @@
    "col": "H",
    "row": 38,
    "undated": true,
-   "memo": "N포인트 사용 -147,877",
+   "memo": "N포인트 사용 -174,955",
    "dirty": true,
    "dirtyCells": [
     "I38"
@@ -1792,6 +1792,48 @@
    ],
    "memo": "주유(씨더블유창원사당)(11.23)",
    "realDate": "2026-11-23"
+  },
+  {
+   "date": "2026-11-23",
+   "side": "me",
+   "cat": "이외",
+   "col": "N",
+   "row": 25,
+   "amount": 44000,
+   "dirty": true,
+   "dirtyCells": [
+    "N25",
+    "O25"
+   ],
+   "memo": "애플산부인과"
+  },
+  {
+   "date": "2026-11-24",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 26,
+   "amount": 11944,
+   "dirty": true,
+   "dirtyCells": [
+    "Q26",
+    "R26"
+   ],
+   "memo": "요기요 셀프 마라샹궈"
+  },
+  {
+   "date": "2026-11-24",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 26,
+   "amount": 14006,
+   "dirty": true,
+   "dirtyCells": [
+    "S26",
+    "T26"
+   ],
+   "memo": "요기요 [REAL TOAST] 리얼 햄치즈스페셜"
   }
  ],
  "extra": {
