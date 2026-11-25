@@ -977,7 +977,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +169,795",
+   "memo": "N포인트 적립 +169,841",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1834,6 +1834,48 @@
     "T26"
    ],
    "memo": "요기요 [REAL TOAST] 리얼 햄치즈스페셜"
+  },
+  {
+   "date": "2026-11-24",
+   "side": "me",
+   "cat": "여가,식비정산",
+   "col": "J",
+   "row": 26,
+   "amount": 10098,
+   "dirty": true,
+   "dirtyCells": [
+    "J26",
+    "K26"
+   ],
+   "memo": "메가박스중앙"
+  },
+  {
+   "date": "2026-11-25",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 27,
+   "amount": 12600,
+   "dirty": true,
+   "dirtyCells": [
+    "Q27",
+    "R27"
+   ],
+   "memo": "요기요 플레인 잠봉뵈르"
+  },
+  {
+   "date": "2026-11-25",
+   "side": "mom",
+   "cat": "저녁",
+   "col": "S",
+   "row": 27,
+   "amount": 12992,
+   "dirty": true,
+   "dirtyCells": [
+    "S27",
+    "T27"
+   ],
+   "memo": "요기요 치즈라볶이"
   }
  ],
  "extra": {
