@@ -977,7 +977,7 @@
    "col": "H",
    "row": 37,
    "undated": true,
-   "memo": "N포인트 적립 +169,841",
+   "memo": "N포인트 적립 +169,872",
    "dirty": true,
    "dirtyCells": [
     "I37"
@@ -1876,6 +1876,48 @@
     "T27"
    ],
    "memo": "요기요 치즈라볶이"
+  },
+  {
+   "date": "2026-11-26",
+   "side": "mom",
+   "cat": "점심",
+   "col": "Q",
+   "row": 28,
+   "amount": 19500,
+   "dirty": true,
+   "dirtyCells": [
+    "Q28",
+    "R28"
+   ],
+   "memo": "요기요 우육도삭면"
+  },
+  {
+   "date": "2026-11-25",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "row": 27,
+   "amount": 4000,
+   "dirty": true,
+   "dirtyCells": [
+    "AE27",
+    "AF27"
+   ],
+   "memo": "메가커피"
+  },
+  {
+   "date": "2026-11-26",
+   "side": "mom",
+   "cat": "커피,티",
+   "col": "AE",
+   "row": 28,
+   "amount": 4000,
+   "dirty": true,
+   "dirtyCells": [
+    "AE28",
+    "AF28"
+   ],
+   "memo": "메가커피"
   }
  ],
  "extra": {
